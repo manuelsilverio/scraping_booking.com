@@ -22,6 +22,6 @@ pandas==1.1.3
 
 * After the script runs a CSV file will be created named "example_output.csv" in the same folder where the script runs. The csv looks like this on excel:
 
-![screen_capture](https://github.com/manuelsilverio/scraping_kayak/blob/main/Capture_kayak.PNG)
+![screen_capture](https://github.com/manuelsilverio/scraping_booking.com/blob/main/Capture.PNG)
 
 
